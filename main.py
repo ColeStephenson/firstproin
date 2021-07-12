@@ -1,4 +1,4 @@
 import pygame
 
 print(' ')
-print(':D')
+print(':D  :D  :D')
